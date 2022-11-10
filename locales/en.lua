@@ -13,6 +13,7 @@ local Translations = {
         weaponlicense = 'Firearms License',
         new_job = 'Congratulations with your new job! (%{job})'
     },
+	huntinglicense = 'Hunting License', -- added for hunting
     email = {
         mr = 'Mr',
         mrs = 'Mrs',
